@@ -1,2 +1,2 @@
-# SafetySearch
+# My browser
  
